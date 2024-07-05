@@ -2,9 +2,9 @@ export default {
     bio: [
         ` Калининград, Россия<br /><a href="mailto: valext@gmail.com">valexr@gmail.com</a>`,
         `<h1>Волков Александр</h1>`,
-        `<a href="github.com/Valexr">github.com/Valexr</a>`
+        `<a href="https://github.com/Valexr">github.com/Valexr</a>`
     ],
-    job: 'Fullstack-Web-разработчик.',
+    job: 'Fullstack Web-разработчик.',
     skills: [
         {
             head: [
@@ -47,7 +47,7 @@ export default {
     ],
     docs: ['Самоучка', '2001 — настоящее время'],
     tech: [
-        'Языки программирования: HTML, CSS, JS/TS, Go, Solidity',
+        'Языки: HTML, CSS, JS/TS, Go, Solidity',
         'Фреймворки: Svelte, React, Solid, Vue',
         'Технологии: NodeJS, Docker, Git',
         'Базы: MySQL, Postgres, Mongo, Redis',
