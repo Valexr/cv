@@ -8,10 +8,10 @@ export default {
     skills: [
         {
             head: [
-                'Web-разработчик <br />(Senior)',
+                '<strong>Web-разработчик <br />(Senior)</strong>',
                 `<strong><a href="https://knightsoftheeditingtable.com/">KnightsOfTheEditingTable</a></strong>
                 <br />Плагины для приложений Adobe. <br /> Россия.`,
-                `июнь 2023 <br> — настоящее время`
+                '<strong>июнь 2023 <br> — настоящее время</strong>'
             ],
             list: [
                 'Собрал и автоматизировал с нуля всё окружение разработки как devops на Esbuild + nodeJS + Svelte с кастомными плагинами. В итоге чтоб развернуть новый проект плагина - достаточно было в любой папке установить 1 пакет и запустить setup',
@@ -21,10 +21,10 @@ export default {
         },
         {
             head: [
-                'Web-разработчик <br />(Middle)',
+                '<strong>Web-разработчик <br />(Middle)</strong>',
                 `<strong><a href="https://p2pcloud.io">P2PCloud</a></strong>
                 <br />Децентрализованный хостинг.<br />Калифорния.`,
-                `2021 — 2023`
+                '<strong>2021 — 2023</strong>'
             ],
             list: [
                 'Собрал промо-сайт',
@@ -34,10 +34,10 @@ export default {
         },
         {
             head: [
-                'Web-разработчик<br />(Middle)',
+                '<strong>Web-разработчик<br />(Middle)</strong>',
                 `<strong><a href="https://github.com/basf/metis-gui">Metis</a></strong>
                 <br />Химическая лаборатория BASF.<br />Германия.`,
-                `2019 — 2021`
+                `<strong>2019 — 2021</strong>`
             ],
             list: [
                 `Собрал <a href="https://kit.metis.science/">UIKit</a> на базе CSS фреймворка spectre.css и js-фреймворка Svelte`,
@@ -47,9 +47,9 @@ export default {
         },
         {
             head: [
-                'Дизайнер. Web-dev.<br />(Freelance)',
+                '<strong>Дизайнер. Web-dev.<br />(Freelance)</strong>',
                 `Самозанятый.<br />Россия.`,
-                `2015 — 2019`
+                `<strong>2015 — 2019</strong>`
             ],
             list: [
                 'Собрал и поддерживал 12 сайтов в сегменте частного/малого предпринимательства',
@@ -59,10 +59,10 @@ export default {
         },
         {
             head: [
-                'Дизайнер. Web-dev.',
+                '<strong>Дизайнер. Web-dev.</strong>',
                 `<strong><a href="https://aquario.ru/">Aquario</a></strong>
                 <br />Ситемы водоснабжения.<br />Россия.`,
-                `2014 — 2015`
+                `<strong>2014 — 2015</strong>`
             ],
             list: [
                 'Разработал и собрал интерфейс калькулятора подбора оборудования',
