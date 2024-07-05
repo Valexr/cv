@@ -4,24 +4,22 @@ html {
 }
 
 body {
-    margin: 0;
     display: grid;
     grid-template-rows: auto 1fr auto;
     grid-template-columns: 1fr;
     font-family: system-ui;
-    text-align: center;
+    text-align: left;
     background-color: var(--light);
+    max-width: 70ch;
+    margin: auto;
+    padding: 0 1em;
 }
 
 header {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    padding: 1rem;
-}
-
-header>* {
-    margin: 0;
 }
 
 button {
@@ -46,10 +44,32 @@ button:hover:active {
     background-color: var(--active);
 }
 
-a {
-    color: inherit;
-}
-
 * {
     box-sizing: border-box;
+}
+
+ul li {
+    margin: 0.5em 0;
+}
+
+ul.inline {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+}
+
+ul.inline li {
+    flex: fit-content;
+    margin: 0;
+}
+
+ul.inline li:first-child {
+    flex: 20%
+}
+
+ul.inline li:last-child {
+    text-align: right;
 }

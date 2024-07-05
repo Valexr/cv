@@ -1,11 +1,10 @@
 <script lang="ts" context="module">
-    import Gh from "$lib/components/Gh.svelte";
-    import type { Name, Repository } from "$types";
+    import data from "./data";
+    import Skill from "$lib/components/Skill.svelte";
 </script>
 
 <script lang="ts">
-    export let name: Name;
-    export let repository: Repository;
+    export let name: string;
 </script>
 
 <svelte:head>
@@ -13,20 +12,39 @@
 </svelte:head>
 
 <header>
-    <button>Some</button>
-    <h1>
-        <Gh {repository} />
-        {name}
-    </h1>
-    <button>Else</button>
+    {#each data.bio as bio}
+        <p>{@html bio}</p>
+    {/each}
 </header>
 
 <main>
-    <p>Main</p>
+    <p>{data.job}</p>
+    <section>
+        <h2>Опыт работы</h2>
+        {#each data.skills as skill}
+            <Skill {skill} />
+        {/each}
+    </section>
+    <section>
+        <h2>Образование и сертификаты</h2>
+        <ul class="inline">
+            {#each data.docs as doc}
+                <li>{doc}</li>
+            {/each}
+        </ul>
+    </section>
+    <section>
+        <h2>Языки и технологии</h2>
+        <ul>
+            {#each data.tech as tech}
+                <li>{tech}</li>
+            {/each}
+        </ul>
+    </section>
 </main>
 
 <footer>
-    <p>Footer</p>
+    <p>© {new Date().getFullYear()}</p>
 </footer>
 
 <style>
