@@ -1,6 +1,6 @@
 export default {
     bio: [
-        ` Калининград, Россия<br /><a href="mailto: valext@gmail.com">valexr@gmail.com</a>`,
+        `Калининград, Россия<br /><a href="mailto: valext@gmail.com">valexr@gmail.com</a>`,
         `<h1>Волков Александр</h1>`,
         `<a href="https://github.com/Valexr">github.com/Valexr</a>`
     ],
@@ -14,7 +14,7 @@ export default {
                 '<strong>июнь 2023 <br> — настоящее время</strong>'
             ],
             list: [
-                'Собрал и автоматизировал с нуля всё окружение разработки как devops на Esbuild + nodeJS + Svelte с кастомными плагинами. В итоге чтоб развернуть новый проект плагина - достаточно было в любой папке установить 1 пакет и запустить setup',
+                'Собрал и автоматизировал с нуля окружение разработки как DevOps на Esbuild + nodeJS + Svelte с кастомными плагинами. В итоге чтоб развернуть новый проект - достаточно было в любой папке установить 1 пакет и запустить setup',
                 'Создал 3 новых плагина на веб-стеке + Adobe ExtendScript + Svelte',
                 'Модернизировал и улучшил 7 плагинов'
             ]
