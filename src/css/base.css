@@ -17,9 +17,28 @@ body {
 
 header {
     display: flex;
+    gap: 1em;
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+}
+
+header>* {
+    flex: min-content;
+    white-space: nowrap;
+}
+
+header>*:nth-child(2) {
+    margin: 2vw 0;
+}
+
+header h1 {
+    white-space: nowrap;
+    margin: 0;
+}
+
+header span {
+    white-space: wrap;
 }
 
 button {

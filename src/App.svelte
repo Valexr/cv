@@ -18,7 +18,7 @@
 </header>
 
 <main>
-    <p>{data.job}</p>
+    <!-- <p>{data.job}</p> -->
     <section>
         <h2>Опыт работы</h2>
         {#each data.skills as skill}

@@ -1,5 +1,5 @@
 :root {
-    --dark: #1c1b22;
+    --dark: #1b1b22;
     --light: #f2f2f2;
     --back: #e9e9ed;
     --hover: #d0d0d7;
@@ -9,10 +9,15 @@
 @media (prefers-color-scheme: dark) {
     :root {
         color-scheme: dark;
-        --light: #1c1b22;
+        --light: #1b1b22;
         --dark: #f2f2f2;
         --back: #2b2a33;
         --hover: #52525e;
         --active: #5b5b66;
+        font-weight: 300;
+    }
+
+    strong {
+        font-weight: bold;
     }
 }
