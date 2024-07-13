@@ -76,7 +76,7 @@ export default {
     tech: [
         'Языки: HTML, CSS, JS/TS, PHP, Go, Solidity',
         'Фреймворки: Svelte, React, Solid, Vue',
-        'Технологии: NodeJS, Docker, Git',
+        'Технологии: NPM, NodeJS, Docker, Git',
         'Базы: MySQL, Postgres, Mongo, Redis',
         'Другое: контракты Etherium на Solidity'
     ]
