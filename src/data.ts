@@ -1,16 +1,17 @@
 export default {
+    name: 'Волков Александр',
     bio: [
         `Калининград, Россия<br /><a href="mailto: valext@gmail.com">valexr@gmail.com</a>`,
-        `<h1>Волков Александр</h1><span>Fullstack Web-разработчик с дизайнерским бэкграундом</span>`,
-        `<a href="https://github.com/Valexr">github.com/Valexr</a>`
+        `<h1>Волков Александр</h1><small>Fullstack Web-разработчик с дизайнерским бэкграундом</small>`,
+        `<a href="https://github.com/Valexr">github.com/Valexr</a><br /><a href="https://t.me/Valexr">@Valexr</a>`
     ],
     // job: 'Fullstack Web-разработчик с дизайнерским бэкграундом',
     skills: [
         {
             head: [
                 '<strong>Web-разработчик <br />(Senior)</strong>',
-                `<strong><a href="https://knightsoftheeditingtable.com/">KnightsOfTheEditingTable</a></strong>
-                <br />Плагины для приложений Adobe. <br /> Россия.`,
+                `<strong><a href="https://knightsoftheeditingtable.com/">KnightsOfTheEditingTable</a></strong><br />
+                <small>Плагины для приложений Adobe. Россия.</small>`,
                 '<strong>июнь 2023 <br> — настоящее время</strong>'
             ],
             list: [
@@ -22,46 +23,47 @@ export default {
         {
             head: [
                 '<strong>Web-разработчик <br />(Middle)</strong>',
-                `<strong><a href="https://p2pcloud.io">P2PCloud</a></strong>
-                <br />Децентрализованный хостинг.<br />Калифорния.`,
+                `<strong><a href="https://p2pcloud.io">P2PCloud</a></strong><br />
+                <small>Децентрализованный хостинг. Калифорния.</small>`,
                 '<strong>2021 — 2023</strong>'
             ],
             list: [
                 'Собрал промо-сайт',
-                'Разработал GUI личного кабинета пользователя и подружил с Etherium-контрактом (бэкенд)',
-                'Написал и покрыл тестами контракт на Solidity для Etherium'
+                'Разработал GUI личного кабинета пользователя',
+                'Написал BFF апи-сервер для взаимодейтия GUI с Etherium-контрактом (бэкенд)',
+                'Написал и покрыл тестами контракт на Solidity для Etherium',
             ]
         },
         {
             head: [
                 '<strong>Web-разработчик<br />(Middle)</strong>',
-                `<strong><a href="https://github.com/basf/metis-gui">Metis</a></strong>
-                <br />Химическая лаборатория BASF.<br />Германия.`,
+                `<strong><a href="https://github.com/basf/metis-gui">Metis</a></strong><br />
+                <small>Химическая лаборатория BASF. Германия.</small>`,
                 `<strong>2019 — 2021</strong>`
             ],
             list: [
-                `Собрал <a href="https://kit.metis.science/">UIKit</a> на базе CSS фреймворка spectre.css и js-фреймворка Svelte`,
+                `Разработал <a href="https://kit.metis.science/">UIKit</a> на базе CSS фреймворка spectre.css и js-фреймворка Svelte`,
                 `Собрал <a href="https://github.com/basf/metis-gui">GUI</a> для расчетов лаборатории`,
-                'Собрал сайт документации на SvelteKit'
+                'Собрал сайт документации на SvelteKit + MarkDown'
             ]
         },
         {
             head: [
                 '<strong>Дизайнер. Web-dev.<br />(Freelance)</strong>',
-                `Самозанятый.<br />Россия.`,
+                `<small>Самозанятый. Россия.</small>`,
                 `<strong>2015 — 2019</strong>`
             ],
             list: [
                 'Собрал и поддерживал 12 сайтов в сегменте частного/малого предпринимательства',
                 'Придумал и нарисовал 15 логотипов',
-                'Разработал 3 фирменных стиля',
+                'Разработал 5 фирменных стилей',
             ]
         },
         {
             head: [
                 '<strong>Дизайнер. Web-dev.</strong>',
-                `<strong><a href="https://aquario.ru/">Aquario</a></strong>
-                <br />Ситемы водоснабжения.<br />Россия.`,
+                `<strong><a href="https://aquario.ru/">Aquario</a></strong><br />
+                <small>Ситемы водоснабжения. Россия.</small>`,
                 `<strong>2014 — 2015</strong>`
             ],
             list: [
@@ -72,7 +74,7 @@ export default {
             ]
         },
     ],
-    docs: ['Самоучка', '2001 — настоящее время'],
+    docs: ['<strong>Самоучка</strong>', '<strong>2001 — настоящее время</strong>'],
     tech: [
         'Языки: HTML, CSS, JS/TS, PHP, Go, Solidity',
         'Фреймворки: Svelte, React, Solid, Vue',

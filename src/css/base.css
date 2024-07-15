@@ -10,9 +10,10 @@ body {
     font-family: system-ui;
     text-align: left;
     background-color: var(--light);
-    max-width: 70ch;
+    max-width: 78ch;
     margin: auto;
     padding: 0 1em;
+    line-height: 1.25;
 }
 
 header {
@@ -86,7 +87,7 @@ ul.inline li {
 }
 
 ul.inline li:first-child {
-    flex: 20%
+    flex: 0 25%
 }
 
 ul.inline li:last-child {

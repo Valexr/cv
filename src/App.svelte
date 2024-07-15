@@ -4,11 +4,11 @@
 </script>
 
 <script lang="ts">
-    export let name: string;
+    // export let name: string;
 </script>
 
 <svelte:head>
-    <title>{name}</title>
+    <title>{data.name}</title>
 </svelte:head>
 
 <header>
@@ -29,7 +29,7 @@
         <h2>Образование и сертификаты</h2>
         <ul class="inline">
             {#each data.docs as doc}
-                <li>{doc}</li>
+                <li>{@html doc}</li>
             {/each}
         </ul>
     </section>
