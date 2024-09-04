@@ -3,7 +3,7 @@ export default {
     bio: [
         `Калининград, Россия<br /><a href="mailto: valext@gmail.com">valexr@gmail.com</a>`,
         `<h1>Волков Александр</h1><small>Fullstack Web-разработчик с дизайнерским бэкграундом</small>`,
-        `<a href="https://github.com/Valexr">github.com/Valexr</a><br /><a href="https://t.me/Valexr">@Valexr</a>`
+        `<a href="https://github.com/Valexr">github.com/Valexr</a><br /><a href="https://t.me/Valexr">https://t.me/Valexr</a>`
     ],
     // job: 'Fullstack Web-разработчик с дизайнерским бэкграундом',
     skills: [
@@ -12,7 +12,7 @@ export default {
                 '<strong>Web-разработчик <br />(Senior)</strong>',
                 `<strong><a href="https://knightsoftheeditingtable.com/">KnightsOfTheEditingTable</a></strong><br />
                 <small>Плагины для приложений Adobe. Россия.</small>`,
-                '<strong>июнь 2023 <br> — настоящее время</strong>'
+                '<strong>2023 — 2024</strong>'
             ],
             list: [
                 'Собрал и автоматизировал окружение разработки как DevOps на Esbuild + nodeJS + Svelte с кастомными плагинами. В итоге чтоб развернуть новый проект - достаточно установить 1 пакет и запустить setup',
