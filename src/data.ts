@@ -3,7 +3,7 @@ export default {
     bio: [
         `Калининград, Россия<br /><a href="mailto: valext@gmail.com">valexr@gmail.com</a>`,
         `<h1>Волков Александр</h1><small>FullStack WebDev with Design background</small>`,
-        `<a href="https://github.com/Valexr">github.com/Valexr</a><br /><a href="https://t.me/Valexr">t.me/Valexr</a>`
+        `<a href="https://github.com/Valexr">github.com</a><br /><a href="https://t.me/Valexr">t.me</a>`
     ],
     // job: 'Fullstack Web-разработчик с дизайнерским бэкграундом',
     skills: [
