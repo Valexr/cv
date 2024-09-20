@@ -41,6 +41,14 @@
             {/each}
         </ul>
     </section>
+    <section>
+        <h2>Портфолио</h2>
+        <ul>
+            {#each data.porto as port}
+                <li><a href={port}>{port}</a></li>
+            {/each}
+        </ul>
+    </section>
 </main>
 
 <footer>

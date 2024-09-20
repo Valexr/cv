@@ -83,5 +83,12 @@ export default {
         'Технологии: NPM, NodeJS, Docker, Git',
         'Базы: MySQL, Postgres, Mongo, Redis',
         'Другое: контракты Etherium на Solidity'
+    ],
+    porto: [
+        'https://valexr.github.io/Tetrix',
+        'https://valexr.github.io/Snaky',
+        'https://valexr.github.io/Tagy',
+        'https://valexr.github.io/Notty',
+        'https://valexr.github.io/county',
     ]
 }
