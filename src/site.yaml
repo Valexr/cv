@@ -1,0 +1,4 @@
+favicon: /favicon.png
+port: 8888
+inline_css: true
+# globals: [style]

@@ -4,19 +4,15 @@
     "private": true,
     "type": "module",
     "scripts": {
-        "build": "node esbuild",
-        "dev": "node esbuild --dev --spa",
-        "preview": "npx esbuild --servedir=public"
+        "dev": "nue -r src",
+        "preview": "nue -pr src",
+        "build": "nue build -pr src -e prod.yaml"
     },
     "repository": {
         "type": "git",
         "url": "https://github.com/Valexr/cv"
     },
     "devDependencies": {
-        "esbuild": "^0.24.0",
-        "esbuild-svelte": "^0.9.0",
-        "svelte": "^5.2.4",
-        "svelte-preprocess": "^6.0.3",
-        "typescript": "^5.6.3"
+        "nuekit": "1.0.0-RC.1"
     }
 }
