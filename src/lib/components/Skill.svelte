@@ -1,5 +1,5 @@
 <script lang="ts">
-    export let skill: { head: string[]; list: string[] };
+    let { skill }: { skill: { head: string[]; list: string[] } } = $props();
 </script>
 
 <article>
