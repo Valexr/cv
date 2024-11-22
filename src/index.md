@@ -68,6 +68,7 @@ description: Valexr curriculum vitæ
 - [![Tagy](img/Tagy.jpg)](https://valexr.github.io/Tagy)
 - [![Notty](img/Notty.jpg)](https://valexr.github.io/Notty)
 - [![County](img/County.jpg)](https://valexr.github.io/county)
+- [![Metis](img/Metis.jpg)](https://kit.metis.science)
 
 <!-- [github]: https://github.com/Valexr
 [mail]: mailto:valext@gmail.com
