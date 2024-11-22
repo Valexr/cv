@@ -1,45 +1,75 @@
 :root {
-  color-scheme: dark light;
-  font-family: sans-serif;
-  font-weight: 300;
+    color-scheme: dark light;
+    font-family: system-ui;
+    font-weight: 300;
 
-  --bg: #eee;
+    /* --bg: #eee; */
 
-  @media (prefers-color-scheme: dark) {
-    --bg: #000;
-  }
+    /* @media (prefers-color-scheme: dark) { */
+    /* --bg: #000; */
+    /* } */
 }
 
-main {
-  max-width: 80ch;
-  margin: auto;
+header,
+main,
+footer {
+    max-width: 80ch;
+    margin: auto;
+}
+
+img {
+    max-width: 100px;
 }
 
 table {
-  width: 100%;
+    width: 100%;
+
+    tr {
+        td {
+            width: 25%;
+
+            &:nth-child(2) {
+                width: 45%;
+            }
+
+            &:last-child {
+                text-align: right;
+            }
+        }
+    }
+
+    &:first-child {
+        margin-bottom: 3em;
+        line-height: 1.25;
+
+        tr:first-child td:nth-child(2) strong {
+            font-size: 2em;
+        }
+    }
+
 }
 
 ul {
-  margin-bottom: 3em;
+    margin-bottom: 3em;
 }
 
 ul li {
-  line-height: 1.5;
+    line-height: 1.5;
 }
 
 ul li p {
-  margin: 0;
+    margin: 0;
 }
 
 ul li p a img {
-  max-width: 225px;
+    max-width: 225px;
 }
 
 ul:has(img) {
-  margin: 0;
-  padding: 0;
-  gap: 1em;
-  display: flex;
-  flex-wrap: wrap;
-  list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
 }
