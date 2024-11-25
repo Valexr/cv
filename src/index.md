@@ -9,8 +9,8 @@ description: Valexr curriculum vitæ
 
 ## Опыт работы
 
-| Web-dev | **[KnightsOfTheEditingTable](https://knightsoftheeditingtable.com/)** | 2023 — 2024 | 
-| Senior | Плагины для приложений Adobe. Россия. | |
+| Web-dev Senior | **[KnightsOfTheEditingTable](https://knightsoftheeditingtable.com/)** Плагины для приложений Adobe. Россия.| 2023 — 2024 | 
+<!-- |  | | | -->
 - Собрал и автоматизировал окружение разработки как DevOps на Esbuild + nodeJS + Svelte с кастомными плагинами 
 - Чтоб развернуть новый проект - достаточно установить 1 пакет и запустить setup
 - Разработал новую архитектуру и модель данных плагинов
