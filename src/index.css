@@ -48,10 +48,8 @@ table {
             margin-right: 1em;
         }
 
-        tr strong {
-            font-size: 2em;
-            line-height: 1;
-            /* vertical-align: text-bottom; */
+        td {
+            vertical-align: top;
         }
 
         td:first-child {
