@@ -9,7 +9,7 @@ description: Valexr curriculum vitæ
 
 ## Опыт работы
 
-| Web-разработчик | **[KnightsOfTheEditingTable](https://knightsoftheeditingtable.com/)** | 2023 — 2024 | 
+| Web-dev | **[KnightsOfTheEditingTable](https://knightsoftheeditingtable.com/)** | 2023 — 2024 | 
 | Senior | Плагины для приложений Adobe. Россия. | |
 - Собрал и автоматизировал окружение разработки как DevOps на Esbuild + nodeJS + Svelte с кастомными плагинами 
 - Чтоб развернуть новый проект - достаточно установить 1 пакет и запустить setup
@@ -18,14 +18,14 @@ description: Valexr curriculum vitæ
 - Создал 3 новых плагина на веб-стеке + Adobe ExtendScript + Svelte
 - Мигрировал 7 плагинов на новую архитектуру и улучшил их функционал
 
-| Web-разработчик | **[P2PCloud](https://p2pcloud.io/)** | 2021 — 2023 |
+| Web-dev | **[P2PCloud](https://p2pcloud.io/)** | 2021 — 2023 |
 | Middle | Децентрализованный хостинг. Калифорния. | |
 - Собрал промо-сайт
 - Разработал GUI личного кабинета пользователя
 - Написал BFF апи-сервер для взаимодейтия GUI с Etherium-контрактом (бэкенд)
 - Написал и покрыл тестами контракт на Solidity для Etherium
 
-| Web-разработчик | **[Metis](https://github.com/basf/metis-gui)** | 2019 — 2021 |
+| Web-dev | **[Metis](https://github.com/basf/metis-gui)** | 2019 — 2021 |
 | Middle | Химическая лаборатория BASF. Германия. | |
 - Разработал [UIKit](https://kit.metis.science/) на базе CSS фреймворка spectre.css и js-фреймворка Svelte
 - Собрал [GUI](https://github.com/basf/metis-gui) для расчетов лаборатории
