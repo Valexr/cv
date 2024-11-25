@@ -21,6 +21,7 @@ table {
 
     tr {
         td {
+            vertical-align: top;
             width: 20%;
 
             &:nth-child(2) {
