@@ -80,7 +80,7 @@ ul li p {
 }
 
 ul li p a img {
-    max-width: 225px;
+    max-width: 220px;
 }
 
 ul:has(img) {
