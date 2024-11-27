@@ -2,7 +2,10 @@
     color-scheme: dark light;
     font-family: system-ui;
     font-weight: 300;
-    font-size: 14px;
+
+    @media screen and (max-width: 600px) {
+        font-size: 14px;
+    }
 }
 
 header,
