@@ -1,3 +1,5 @@
+globals: ["@global"]
+
 favicon: /favicon.png
 inline_css: true
 port: 8888
