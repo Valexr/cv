@@ -59,9 +59,9 @@ description: Valexr curriculum vitae
 - Other: Ethereum contracts with Solidity
 
 ## Portfolio
-- [![Tetrix](img/Tetrix.jpg)](https://valexr.github.io/Tetrix)
-- [![Snaky](img/Snaky.jpg)](https://valexr.github.io/Snaky)
-- [![Tagy](img/Tagy.jpg)](https://valexr.github.io/Tagy)
-- [![Notty](img/Notty.jpg)](https://valexr.github.io/Notty)
-- [![County](img/County.jpg)](https://valexr.github.io/county)
-- [![Metis](img/Metis.jpg)](https://kit.metis.science)
+- [![Tetrix](../img/Tetrix.jpg)](https://valexr.github.io/Tetrix)
+- [![Snaky](../img/Snaky.jpg)](https://valexr.github.io/Snaky)
+- [![Tagy](../img/Tagy.jpg)](https://valexr.github.io/Tagy)
+- [![Notty](../img/Notty.jpg)](https://valexr.github.io/Notty)
+- [![County](../img/County.jpg)](https://valexr.github.io/county)
+- [![Metis](../img/Metis.jpg)](https://kit.metis.science)
