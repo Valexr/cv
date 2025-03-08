@@ -11,8 +11,6 @@ description: Valexr curriculum vitæ
 | Web-dev | **[Dalee/](https://dalee.ru)** | 2025 — настоящее время |
 | Senior | Разработка и сопровождение сложных диджитал-продуктов. Россия. | |
 
--
-
 | Web-dev | **[KnightsOfTheEditingTable](https://knightsoftheeditingtable.com/)** | 2023 — 2024 |
 | Senior | Плагины для приложений Adobe. Россия. | |
 
