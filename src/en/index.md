@@ -5,7 +5,7 @@ description: Valexr curriculum vitae
 
 ## Work Experience
 
-| Web-dev | **[Dalee/](https://dalee.ru)** | 2025 — present day |
+| Web-dev | **[Dalee/](https://dalee.ru)** | 2025 — ... |
 | Senior | Digital production. Russia. | |
 
 - Develop and accompany complex digital products
