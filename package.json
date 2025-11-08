@@ -1,18 +1,18 @@
 {
-    "name": "valexr_cv",
-    "version": "1.0.0",
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "dev": "nue -r src",
-        "preview": "nue -pr src",
-        "build": "nue build -pr src -e prod.yaml"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/Valexr/cv"
-    },
-    "devDependencies": {
-        "nuekit": "1.0.0-RC.2"
-    }
+  "name": "valexr_cv",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "cd src && nue",
+    "preview": "cd src && nue preview",
+    "build": "cd src && nue build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valexr/cv"
+  },
+  "devDependencies": {
+    "nuekit": "2.0.0"
+  }
 }

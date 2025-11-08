@@ -1,5 +1,7 @@
-globals: ["@global"]
+meta:
+  title: Valexr / Curriculum vitæ
+  title_template: %s / Curriculum Vitæ
+  author: Alexander Volkov
 
-favicon: /favicon.png
-inline_css: true
-port: 8888
+design:
+  inline_css: true

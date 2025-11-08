@@ -1,17 +1,16 @@
 ---
-title: Valexr CV
+title: Valexr
 description: Valexr curriculum vitæ
 ---
-
-<!-- | ![Valexr](img/Valexr.jpg) | **Волков Александр**  FullStack WebDev with Design background| Калининград, Россия [valext@gmail.com][mail] [github.com][github]  [t.me][telegram] | -->
-<!-- | Калининград, Россия [valext@gmail.com][mail] | FullStack WebDev with Design background |  Калининград, Россия [valext@gmail.com][mail] [github.com][github]  [telegram][telegram] | -->
 
 ## Опыт работы
 
 | Web-dev | **[Dalee/](https://dalee.ru)** | 2025 — ... |
-| Senior | Диджитал-продакшен. Россия. | |
+| Middle | Диджитал-продакшен. Россия. | |
 
 - Разрабатываю и сопровождаю сложные диджитал-продукты
+- [SubQuery](https://subquery.ru) — инструменты Big Data. Облачный DBT
+- Арткластер [Таврида-Арт](https://tavrida.art)
 
 | Web-dev | **[KnightsOfTheEditingTable](https://knightsoftheeditingtable.com/)** | 2023 — 2024 |
 | Senior | Плагины для приложений Adobe. Россия. | |
@@ -38,15 +37,15 @@ description: Valexr curriculum vitæ
 - Собрал [GUI](https://github.com/basf/metis-gui) для расчетов лаборатории
 - Собрал сайт документации на SvelteKit + MarkDown
 
-| Дизайнер. Web-dev. | **Самозанятый**. Россия. | 2015 — 2019 |
-| Freelance | | |
+| Дизайнер. | **[Самозанятый](/)** | 2015 — 2019 |
+| Web-dev. | Freelance. Россия. | |
 
-- Собрал и поддерживал 12 сайтов в сегменте частного/малого бизнесса
+- Собрал и поддерживал 12 сайтов в сегменте частного/малого бизнеса
 - Придумал и нарисовал 15 логотипов
 - Разработал 5 фирменных стилей
 
-| Дизайнер. Web-dev. | **[Aquario](https://aquario.ru)** | 2014 — 2015 |
-| | Системы водоснабжения. Россия. | |
+| Дизайнер. | **[Aquario](https://aquario.ru)** | 2014 — 2015 |
+| Web-dev. | Системы водоснабжения. Россия. | |
 
 - Разработал и собрал интерфейс калькулятора подбора оборудования
 - Разработал дизайн и собрал корпоративный сайт компании
@@ -71,7 +70,7 @@ description: Valexr curriculum vitæ
 - Фреймворки: Svelte, React, Solid, Vue
 - Технологии: NPM, NodeJS, Docker, Git
 - Базы: MySQL, Postgres, Mongo, Redis
-- Другое: контракты Etherium на Solidity
+- Другое: Solidity (Etherium contracts), Adobe, Figma
 
 ## Портфолио
 
@@ -80,7 +79,7 @@ description: Valexr curriculum vitæ
 - [![Tagy](img/Tagy.jpg)](https://valexr.github.io/Tagy)
 - [![Notty](img/Notty.jpg)](https://valexr.github.io/Notty)
 - [![County](img/County.jpg)](https://valexr.github.io/county)
-- [![Metis](img/Metis.jpg)](https://kit.metis.science)
+- [![Metis](img/Metis.jpg)](https://kit.optimade.science)
 
 <!-- [github]: https://github.com/Valexr
 [mail]: mailto:valext@gmail.com
