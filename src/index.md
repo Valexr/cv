@@ -81,6 +81,6 @@ description: Valexr curriculum vitæ
 - [![County](img/County.jpg)](https://valexr.github.io/county)
 - [![Metis](img/Metis.jpg)](https://kit.optimade.science)
 
-<!-- [github]: https://github.com/Valexr
+[github]: https://github.com/Valexr
 [mail]: mailto:valext@gmail.com
-[telegram]: https://t.me/Valexr -->
+[telegram]: https://t.me/Valexr
