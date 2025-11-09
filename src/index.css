@@ -232,7 +232,7 @@ ul {
   }
 }
 
-header > table {
+header > table td:last-child {
   line-height: 1.5;
 }
 
