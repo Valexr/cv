@@ -3,6 +3,14 @@ title: Valexr
 description: Valexr curriculum vitæ
 ---
 
+<!-- ## Языки и технологии -->
+
+| Языки | | HTML, CSS, JS/TS, PHP, Go |
+| Фреймворки | | Svelte, React, Solid, Vue, JQuery |
+| Технологии | | NPM, NodeJS, Docker, Git, Bash |
+| Базы | | MySQL, Postgres, Mongo, Redis |
+| Другое | | Adobe, Figma, Solidity (Etherium contracts) |
+
 ## Опыт работы
 
 | Web-dev | **[Dalee/](https://dalee.ru)** | 2025 — ... |
@@ -40,8 +48,8 @@ description: Valexr curriculum vitæ
 | Дизайнер. | **[Самозанятый](/)** | 2015 — 2019 |
 | Web-dev. | Freelance. Россия. | |
 
-- Собрал и поддерживал 12 сайтов в сегменте частного/малого бизнеса
-- Придумал и нарисовал 15 логотипов
+- Собрал и поддерживал 9 сайтов в сегменте частного/малого бизнеса
+- Придумал и нарисовал 7 логотипов
 - Разработал 5 фирменных стилей
 
 | Дизайнер. | **[Aquario](https://aquario.ru)** | 2014 — 2015 |
@@ -55,22 +63,16 @@ description: Valexr curriculum vitæ
 | Дизайнер. Web-dev. | | 2001 — 2014 |
 | | | |
 
-- [Министерство сельского хозяйства](https://mcx.gov.ru)
+<!-- - [Министерство сельского хозяйства](https://mcx.gov.ru) -->
+
 - [ФГБУ «АСП АПК»](https://www.fagps.ru)
 - [Страховая компания "РЕСО-гарантия"](https://reso.ru)
 - Страховая компания "Континент-полис"
 
 ## Образование и сертификаты
 
-| Самоучка | | 2001 — ... |
-
-## Языки и технологии
-
-- Языки: HTML, CSS, JS/TS, PHP, Go, Solidity
-- Фреймворки: Svelte, React, Solid, Vue
-- Технологии: NPM, NodeJS, Docker, Git
-- Базы: MySQL, Postgres, Mongo, Redis
-- Другое: Solidity (Etherium contracts), Adobe, Figma
+| МИГКУ | Мировая экономика и международные отношения | 2004 — 2008 |
+| Самоучка | Веб-технологии | 2001 — ... |
 
 ## Портфолио
 

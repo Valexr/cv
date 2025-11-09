@@ -94,9 +94,9 @@
     }
   }
 
-  /*h2 {
-        margin-block: 3em 0em;
-    }*/
+  h2 {
+    margin-block: 3em 1em;
+  }
 
   p {
     text-wrap: pretty;
