@@ -45,7 +45,7 @@
     > header,
     > main,
     > footer {
-      max-width: 80ch;
+      max-width: 70ch;
       margin: auto;
     }
 
@@ -232,17 +232,54 @@ ul {
   }
 }
 
-header > table td:last-child {
-  line-height: 1.5;
+header {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  gap: 2rem;
+  margin: 1rem auto;
+
+  & > img {
+    height: auto;
+    flex: 1;
+    max-width: 9rem;
+  }
+
+  & > h1 {
+    line-height: 1;
+    flex: 1;
+    /* white-space: nowrap; */
+    margin: 0;
+    span {
+      margin: 1rem 0 0;
+      display: block;
+      font-size: initial;
+      font-weight: initial;
+      color: var(--base-600);
+      white-space: normal;
+    }
+  }
+  & > ul {
+    text-align: right;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;
+    flex: 1;
+  }
+  /* > table td:last-child {
+    line-height: 1.5;
+  } */
 }
 
 table {
   width: 100%;
 
   td {
-    &:first-child {
-      width: 10rem;
-    }
+    vertical-align: top;
+    /* &:first-child { */
+    /* width: 10rem; */
+    /* } */
 
     &:last-child {
       text-align: right;
