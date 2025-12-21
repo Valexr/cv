@@ -17,6 +17,7 @@ description: Valexr curriculum vitæ
 | Диджитал-продакшен. Россия. | |
 
 - Разрабатываю и сопровождаю сложные диджитал-продукты
+- [Ростелеком Здоровье](https://med-healthlab.ru/) — Дистанционные медицинские осмотры
 - [SubQuery](https://subquery.ru) — инструменты Big Data. Облачный DBT
 - Арткластер [Таврида-Арт](https://tavrida.art)
 
