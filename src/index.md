@@ -16,6 +16,8 @@ description: Valexr curriculum vitæ
 | **[Albacore](https://albacore.ru)** | 2026 — .... |
 | Экосистема интеллектуальных зданий. Россия. | |
 
+- Проектирование и разработка GUI
+
 | **[Dalee/](https://dalee.ru)** | 2025 — 2026 |
 | Диджитал-продакшен. Россия. | |
 
