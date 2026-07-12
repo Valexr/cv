@@ -5,7 +5,7 @@ description: Valexr curriculum vitæ
 
 <!-- ## Языки и технологии -->
 
-| Языки | | HTML, CSS, JS/TS, PHP, Go |
+| Языки | | HTML, CSS, JS/TS, PHP, Go, Python |
 | Фреймворки | | Svelte, React, Solid, Vue, JQuery |
 | Технологии | | NPM, NodeJS, Docker, Git, Bash |
 | Базы | | MySQL, Postgres, Mongo, Redis |
