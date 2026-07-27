@@ -255,7 +255,7 @@ header {
       display: block;
       font-size: initial;
       font-weight: initial;
-      color: var(--base-600);
+      /* color: var(--base-600); */
       white-space: normal;
     }
   }
