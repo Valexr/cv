@@ -87,7 +87,7 @@ description: Valexr curriculum vitæ
 
 - [![Tetrix](img/Tetrix.jpg)](https://valexr.github.io/Tetrix)
 - [![Snaky](img/Snaky.jpg)](https://valexr.github.io/Snaky)
-- [![Tagy](img/Tagy.jpg)](https://valexr.github.io/Tagy)
+- [![Tagy](img/Tagy.jpg)](https://valexr.github.io/tagy)
 - [![Notty](img/Notty.jpg)](https://valexr.github.io/Notty)
 - [![County](img/County.jpg)](https://valexr.github.io/county)
 - [![Metis](img/Metis.jpg)](https://kit.optimade.science)
