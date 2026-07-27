@@ -37,8 +37,8 @@
   body {
     /*line-height: 1.5;*/
     font-family: system-ui;
-    color: var(--base-600);
-    background-color: var(--base);
+    /* color: var(--base-600); */
+    /* background-color: var(--base); */
     padding: 1rem 1.5rem;
     margin: 0;
 
@@ -51,11 +51,11 @@
 
     /* header */
     > header {
-      border-bottom: 1px solid var(--base-200);
+      /* border-bottom: 1px solid var(--base-200); */
       padding-bottom: 1rem;
       a {
         text-decoration: none;
-        color: var(--base-800);
+        /* color: var(--base-800); */
         font-weight: 600;
       }
     }
@@ -67,8 +67,8 @@
     /* footer */
     > footer {
       text-align: center;
-      border-top: 1px solid var(--base-200);
-      color: var(--base-800);
+      /* border-top: 1px solid var(--base-200); */
+      /* color: var(--base-800); */
       padding-block: 6rem;
     }
   }
@@ -78,7 +78,7 @@
   h2,
   h3,
   strong {
-    color: var(--base-800);
+    /* color: var(--base-800); */
   }
 
   h1 {
@@ -104,7 +104,7 @@
 
   /* placeholder images */
   figure {
-    background-color: var(--base-200);
+    /* background-color: var(--base-200); */
     margin: 1.5em 0;
 
     > div {
