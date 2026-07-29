@@ -56,7 +56,7 @@
       a {
         text-decoration: none;
         /* color: var(--base-800); */
-        font-weight: 600;
+        /* font-weight: 600; */
       }
     }
 
@@ -257,6 +257,7 @@ header {
       font-weight: initial;
       /* color: var(--base-600); */
       white-space: normal;
+     line-height: initial;
     }
   }
   & > ul {
