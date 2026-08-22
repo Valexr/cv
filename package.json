@@ -4,15 +4,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "cd src && nue",
-    "preview": "cd src && nue preview",
-    "build": "cd src && nue build"
+    "dev": " bun --watch index.html",
+    "preview": "bun index.html"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/Valexr/cv"
-  },
-  "devDependencies": {
-    "nuekit": "latest"
   }
 }
